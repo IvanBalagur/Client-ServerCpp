@@ -46,6 +46,11 @@ int main()
         res.status = httplib::StatusCode::OK_200;
         });
 
+    svr.Get("/on", [&](const httplib::Request& req, auto& res)
+        {
+            res.status = httplib::StatusCode::OK_200;
+        });
+
     svr.Get("/dic", [&counter](const httplib::Request& req, httplib::Response& res) {
         counter.dicrementConn(); 
         });
