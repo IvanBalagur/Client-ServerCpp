@@ -1,7 +1,7 @@
 ﻿// ServerCppTest.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
-#include ".vs/ServerCppTest/httplib.h"
+#include "../httplib.h"
 #include <fstream>
 #include <mutex>
 

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ServerCppTest", "ServerCppTest.vcxproj", "{57420B39-0DC4-46ED-9432-5F80196598A1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClientCppTest", "..\ClientCppTest\ClientCppTest.vcxproj", "{7A89443C-E66B-45D9-AC44-3227FCAD9253}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClientCppTest", "..\ClientCpp\ClientCppTest.vcxproj", "{7A89443C-E66B-45D9-AC44-3227FCAD9253}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
